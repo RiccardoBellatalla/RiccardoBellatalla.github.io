@@ -1,1 +1,5 @@
-echo 'http://'. $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+<h3 id="right">
+  <script type="text/javascript">
+    document.write(location.href);
+  </script>
+</h3>
